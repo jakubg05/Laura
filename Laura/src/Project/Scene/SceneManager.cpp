@@ -1,5 +1,4 @@
 #include "SceneManager.h"
-#include "Project/Scene/SceneManager.h"
 
 namespace Laura
 {
